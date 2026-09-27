@@ -1,0 +1,6 @@
+[submodule "third_party/kai0"]
+	path = third_party/kai0
+	url = https://github.com/OpenDriveLab/kai0.git
+[submodule "third_party/hil-serl"]
+	path = third_party/hil-serl
+	url = https://github.com/rail-berkeley/hil-serl.git
